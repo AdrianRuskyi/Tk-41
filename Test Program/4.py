@@ -4,4 +4,4 @@ class Name:
             raise ValueError("Дозволені імена: Богдан, Nazar")
         self.name = name
 
-a = Name("Адріан")
+a = Name("Ладик")
